@@ -1,6 +1,6 @@
-# Run `fly launch --copy-config` to provision and name this application.
+# fly.toml file generated for sprails-blog on 2022-11-20T19:09:43-03:00
 
-app = "sitepress-starter-site"
+app = "sprails-blog"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
